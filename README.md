@@ -3,6 +3,11 @@
 ## Heroku config
 heroku git:remote -a unicorncms
 
+# Meta
+Default dev branch - master
+
+
+
 ## Links 
 
 https://devcenter.heroku.com/articles/getting-started-with-rails7#local-setup
