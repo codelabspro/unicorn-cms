@@ -33,3 +33,4 @@ remote:
 
 bin/rails db:migrate RAILS_ENV=development
 
+heroku run bin/rails db:migrate
