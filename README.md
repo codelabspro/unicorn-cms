@@ -29,3 +29,7 @@ remote:
 remote:          bundle lock --add-platform x86_64-linux
 remote:          bundle install
 remote:        
+
+
+bin/rails db:migrate RAILS_ENV=development
+
